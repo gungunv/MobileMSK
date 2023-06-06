@@ -1,0 +1,4 @@
+﻿Python
+
+
+Downloaded Python and Pycharm. Use of strings, variables, and boolean values. Use of string concatenation using +. To take value from the user, the input command is used. Use of int, float, bool, and str functions to convert variable types. To concatenate float and string in the print function, + str() is used. Use of various string functions like .upper(), .lower(), .find(), .for(‘’), and .replace(‘’ , ‘’). Operators like in, +, -, *, /, //, %, **, etc. use of augmented, comparison, logical, not, and conditional (if, elif, else:) operators. Use of while and for loops. Use of lists in [], their methods ( .append, .insert, .remove, .clear, etc. and functions like len() and range(). Use of tuples in ().

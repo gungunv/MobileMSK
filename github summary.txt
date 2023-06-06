@@ -1,0 +1,4 @@
+﻿GitHub
+
+
+Git is an open-source version control system that allows the efficient handling of projects. It has three states - Working directory, Staging area, and Git repository. Git Bash is installed on Windows. A new repository was created on the GitHub account. It was then cloned to the local Git Bash on our desktop in our directory.  To create a simple text file, ‘echo’ command is used. To display the contents of the file, ‘cat’ command is used. Now, to add the new file to the staging area, ‘git add’ command is used. Now, to add this to the repository, use the ‘ git commit -m’ command. After this commit, the working directory is clean. To push the repository, ‘ git push’ command is used. For the newer versions, the command, ‘git init’ is used to create the repository. Hence, finally use the ‘git remote add origin’ and ‘ git push origin main’ to push the repository.

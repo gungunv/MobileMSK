@@ -1,0 +1,4 @@
+﻿Linux
+
+
+The shell script is a text file that contains a series of commands. The nano text editor is used and the script is created. Execute permission given by using ‘chmod +x’ and the script is run using ‘./file_name’. To display the contents of the file, the cat command is used. Use of builtin commands - shebang (#!), /bin/bash, echo, ${Variable}, ${UID}. Use of commands ‘#’, blank lines, hostname, date, uname -r (kernel), uname -m (architecture), df -h (disk usage in human-readable form), etc. Making decisions using if [[  ]], then, else, and fi commands.
