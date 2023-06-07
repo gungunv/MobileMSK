@@ -1,0 +1,7 @@
+﻿Python Project
+
+The basics of Python revised that was done in the 1-hour video. Triple quotes are used for printing multi-line statements, use of index (course[]), formatted strings (f''), variable holders{}, round(), abs(), import math, if:, for:, and while: loops with the help of various examples and games. Use of nested loops, 2D lists [][], .pop(), .index(), .count(), .sort(), .reverse(), .copy(), unpacking. Use of dictionaries to map {}, .split() to get a list, def:, return, and positional and keyword arguments, try:, except:. Use of class, constructors(def __init__), self, inheritance, import modules, package, random, directories (pathlib). Projects made for excel, ML, and Django.
+
+
+
+
