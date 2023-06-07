@@ -1,4 +1,0 @@
-﻿Python Project
-
-
-Insights on Python programming including object-oriented programming, machine learning, and automation. Made projects using Django and Python, and created a website. Use of PyPI and pip. Ultimately obtained a website for selling fruits. Use of all basics covered in the crash course along with some new concepts. It includes - inputs, variables, type conversions, strings, operators, functions, statements, loops, lists, tuples, arguments, etc. and many more concepts. Great course for a beginner.
